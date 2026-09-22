@@ -1,6 +1,7 @@
 # Internship-task-1
 CSS code
-<Internship Task-1!DOCTYPE html>
+<Internship Task-1
+<!DOCTYPE html>
 <html>
 <head>
     <title>Internship Task-1</title>
